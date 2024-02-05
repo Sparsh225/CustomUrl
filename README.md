@@ -1,4 +1,4 @@
-# CustomUrl
+
 # URL Shortener
 
 A URL shortener built using Node.js, Express, MongoDB, JWT, and cookies. It includes authentication and authorization features where normal users can access only their URLs, and admins have access to all URLs.
